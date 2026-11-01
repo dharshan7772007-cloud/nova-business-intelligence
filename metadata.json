@@ -1,0 +1,6 @@
+{
+  "name": "NOVA — AI Business Intelligence Platform",
+  "description": "Futuristic AI-assisted business intelligence platform that helps businesses understand revenue, sales, customers, products and forecasting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
